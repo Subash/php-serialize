@@ -1,0 +1,24 @@
+{
+  "name": "@sbspk/php-serialize",
+  "version": "1.0.0",
+  "main": "src/serialize.js",
+  "types": "src/serialize.d.ts",
+  "type": "module",
+  "description": "JavaScript implementation of PHP serialize() function. Works on browsers and node.",
+  "scripts": {
+    "test": "ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Subash/php-serialize.git"
+  },
+  "author": "Subash Pathak",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Subash/php-serialize/issues"
+  },
+  "homepage": "https://github.com/Subash/php-serialize#readme",
+  "devDependencies": {
+    "ava": "^4.3.1"
+  }
+}
